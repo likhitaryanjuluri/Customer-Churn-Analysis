@@ -37,7 +37,7 @@ The project combines data cleaning, exploratory data analysis, SQL business anal
 
 Add your dashboard screenshot below.
 
-![Customer Churn Dashboard](reports/charts/customer_churn_dashboard.png)
+![Customer Churn Dashboard](reports/charts/Customer_churn_dashboard.png)
 
 ## Machine Learning Models
 
