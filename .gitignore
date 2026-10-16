@@ -19,3 +19,6 @@ Thumbs.db
 
 data/raw/
 data/processed/
+
+# Trained machine learning artifacts
+models/*.joblib
